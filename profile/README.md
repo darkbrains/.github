@@ -1,6 +1,6 @@
 # Welcome to Blackdocs
 
-![Blackdocs Logo](./Images/fotor-ai-20230915144542.jpg)
+![Blackdocs Logo](../Images/fotor-ai-20230915144542.jpg)
 
 Blackdocs is an open-source platform where collaboration and innovation thrive. We believe in the power of open source and welcome you to join our community. Whether you want to work with us or leverage our repositories, you're in the right place.
 

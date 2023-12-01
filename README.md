@@ -1,14 +1,14 @@
-# Welcome to Blackdocs
+# Welcome to Darkbrains
 
-Blackdocs is an open-source platform where collaboration and innovation thrive. We believe in the power of open source and welcome you to join our community. Whether you want to work with us or leverage our repositories, you're in the right place.
+Darkbrains is an open-source platform where collaboration and innovation thrive. We believe in the power of open source and welcome you to join our community. Whether you want to work with us or leverage our repositories, you're in the right place.
 
 ## What We Offer
 
-- **Open Source**: Blackdocs is an open-source hub. Feel free to explore, use, and contribute to our projects.
+- **Open Source**: Darkbrains is an open-source hub. Feel free to explore, use, and contribute to our projects.
 
 - **Collaboration**: We encourage collaboration with the community. Your ideas and contributions are highly valued.
 
-- **Knowledge Sharing**: Blackdocs is not just about code. We share knowledge, ideas, and insights to help you grow.
+- **Knowledge Sharing**: Darkbrains is not just about code. We share knowledge, ideas, and insights to help you grow.
 
 ## Licensing
 
@@ -21,7 +21,7 @@ Our projects are made available under specific licenses. It's essential to adher
 3. Join our community discussions and share your knowledge.
 4. Respect the licensing terms of each project.
 
-Thank you for being a part of the Blackdocs community. Together, we can build amazing things.
+Thank you for being a part of the Darkbrains community. Together, we can build amazing things.
 
 **Note**: Remember to review the LICENSE file for each repository to understand what is allowed and what is not.
 
